@@ -200,3 +200,9 @@ An error occurred (AccessDeniedException) when calling the Invoke operation: Use
 ```
 
 The above was essentially the most common error I found. I ended up figuring it out by adding to some policies and roles.
+
+These are some photos of proof of life.
+
+![picture of successful test](./assets/test.png)
+
+![picture of re-sized photo in new bucket](./assets/bucket.png)
